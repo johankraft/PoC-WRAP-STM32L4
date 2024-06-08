@@ -1,0 +1,13 @@
+../Core/Src/TraceRecorder/trcEvent.c:29:13:xTraceEventInitialize	32	static
+../Core/Src/TraceRecorder/trcEvent.c:56:13:xTraceEventCreate0	48	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:91:13:xTraceEventCreate1	48	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:129:13:xTraceEventCreate2	56	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:168:13:xTraceEventCreate3	56	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:208:13:xTraceEventCreate4	56	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:249:13:xTraceEventCreate5	56	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:291:13:xTraceEventCreate6	56	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:334:13:xTraceEventBeginRawOffline	48	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:386:13:xTraceEventBeginRawOfflineBlocking	48	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:438:13:xTraceEventEndOffline	40	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:473:13:xTraceEventEndOfflineBlocking	48	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcEvent.c:514:13:xTraceEventAddData	32	static

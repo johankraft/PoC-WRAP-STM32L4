@@ -1,0 +1,9 @@
+../Core/Src/TraceRecorder/trcEventBuffer.c:17:13:xTraceEventBufferInitialize	1
+../Core/Src/TraceRecorder/trcEventBuffer.c:52:20:prvTraceEventBufferPop	1
+../Core/Src/TraceRecorder/trcEventBuffer.c:68:20:prvTraceEventBufferAllocPop	2
+../Core/Src/TraceRecorder/trcEventBuffer.c:93:13:xTraceEventBufferAlloc	15
+../Core/Src/TraceRecorder/trcEventBuffer.c:258:13:xTraceEventBufferAllocCommit	1
+../Core/Src/TraceRecorder/trcEventBuffer.c:274:13:xTraceEventBufferPush	16
+../Core/Src/TraceRecorder/trcEventBuffer.c:398:13:xTraceEventBufferTransferAll	4
+../Core/Src/TraceRecorder/trcEventBuffer.c:466:13:xTraceEventBufferTransferChunk	6
+../Core/Src/TraceRecorder/trcEventBuffer.c:534:13:xTraceEventBufferClear	1

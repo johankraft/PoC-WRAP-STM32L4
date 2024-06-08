@@ -1,0 +1,2 @@
+../Core/Src/TraceRecorder/trcString.c:18:13:xTraceStringRegister	40	static
+../Core/Src/TraceRecorder/trcString.c:67:21:xTraceRegisterString	24	static

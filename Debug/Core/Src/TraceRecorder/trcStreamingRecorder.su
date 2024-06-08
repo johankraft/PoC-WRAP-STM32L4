@@ -1,0 +1,15 @@
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:141:13:xTraceInitialize	16	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:274:13:prvVerifySizeAlignment	16	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:279:13:xTraceHeaderInitialize	24	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:351:13:xTraceEnable	32	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:413:13:xTraceDisable	8	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:436:13:xTraceGetEventBuffer	16	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:450:13:xTraceTzCtrl	24	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:494:6:vTraceSetFilterGroup	16	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:499:6:vTraceSetFilterMask	16	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:508:32:prvIs64bit	4	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:514:13:prvSetRecorderEnabled	32	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:559:13:prvSetRecorderDisabled	24	static,ignoring_inline_asm
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:639:13:prvTraceStoreStartEvent	24	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:658:16:prvIsValidCommand	24	static
+../Core/Src/TraceRecorder/trcStreamingRecorder.c:686:13:prvProcessCommand	16	static

@@ -1,0 +1,2 @@
+../Core/Src/trace-wrappers.c:19:6:init_cti_trace	8	static
+../Core/Src/trace-wrappers.c:31:19:__wrap_HAL_UART_Transmit_DMA	32	static

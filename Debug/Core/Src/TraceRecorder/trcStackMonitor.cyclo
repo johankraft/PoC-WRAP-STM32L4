@@ -1,0 +1,5 @@
+../Core/Src/TraceRecorder/trcStackMonitor.c:25:13:xTraceStackMonitorInitialize	2
+../Core/Src/TraceRecorder/trcStackMonitor.c:46:13:xTraceStackMonitorAdd	4
+../Core/Src/TraceRecorder/trcStackMonitor.c:85:13:xTraceStackMonitorRemove	6
+../Core/Src/TraceRecorder/trcStackMonitor.c:136:13:xTraceStackMonitorGetAtIndex	1
+../Core/Src/TraceRecorder/trcStackMonitor.c:156:13:xTraceStackMonitorReport	5

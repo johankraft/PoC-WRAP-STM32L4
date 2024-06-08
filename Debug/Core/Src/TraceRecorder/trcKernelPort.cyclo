@@ -1,0 +1,13 @@
+../Core/Src/TraceRecorder/trcKernelPort.c:134:13:xTraceKernelPortGetUnusedStack	1
+../Core/Src/TraceRecorder/trcKernelPort.c:143:13:xTraceKernelPortDelay	1
+../Core/Src/TraceRecorder/trcKernelPort.c:150:15:xTraceKernelPortIsSchedulerSuspended	1
+../Core/Src/TraceRecorder/trcKernelPort.c:171:13:xTraceKernelPortInitialize	2
+../Core/Src/TraceRecorder/trcKernelPort.c:188:13:xTraceKernelPortEnable	4
+../Core/Src/TraceRecorder/trcKernelPort.c:235:8:TzCtrl	1
+../Core/Src/TraceRecorder/trcKernelPort.c:249:6:vTraceSetQueueName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:254:6:vTraceSetSemaphoreName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:259:6:vTraceSetMutexName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:266:6:vTraceSetEventGroupName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:275:6:vTraceSetStreamBufferName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:280:6:vTraceSetMessageBufferName	1
+../Core/Src/TraceRecorder/trcKernelPort.c:289:19:xTraceKernelPortGetSystemHeapHandle	1

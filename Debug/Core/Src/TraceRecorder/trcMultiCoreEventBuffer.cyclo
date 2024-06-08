@@ -1,0 +1,4 @@
+../Core/Src/TraceRecorder/trcMultiCoreEventBuffer.c:17:13:xTraceMultiCoreEventBufferInitialize	3
+../Core/Src/TraceRecorder/trcMultiCoreEventBuffer.c:91:13:xTraceMultiCoreEventBufferTransferAll	3
+../Core/Src/TraceRecorder/trcMultiCoreEventBuffer.c:119:13:xTraceMultiCoreEventBufferTransferChunk	3
+../Core/Src/TraceRecorder/trcMultiCoreEventBuffer.c:146:13:xTraceMultiCoreEventBufferClear	2
