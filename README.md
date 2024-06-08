@@ -3,8 +3,11 @@
 This is showing how the GCC wrap function can be used to trace function calls without having to insert instrumentation points in the original code.
 The tracing is instead done by using a linker feature to hook in to the function calls. You still need to add some code, but this could be automated by a tool.
 
+![screenshot](screenshot.png)
+
 The functions you like to trace are added in "wrapped-functions.txt" and then you need to add a small trace wrapper function in trace-wrappers.c.
 Also started on a filter system to allow for enabling and disabling traced function in runtime (right now you can update the "event_filter" array in the debugger) 
+
 
 # STM32L4-VCP-Streaming
 
